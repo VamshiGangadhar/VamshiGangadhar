@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VamshiGangadhar
-- 👀 I’m interested in learning web development and data structures and algoithirm
-- 🌱 I’m currently learning ... web development and DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing websites.
+- 🌱 
+- 💞️ I’m looking to collaborate on ... creation of websites
 - 📫 How to reach me vamshi.gangadhar365@gmail.com
 
 <!---

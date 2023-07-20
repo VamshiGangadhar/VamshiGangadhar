@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @VamshiGangadhar<br>👀 I’m interested in developing websites and mobile applications.<br>🌱 Know to build Permissioned Blockchain <br>💞️ I’m looking to collaborate on the creation of websites and mobile applications<br>📫 How to reach me vamshi.gangadhar365@gmail.com
+👋 Hi, I’m @VamshiGangadhar<br>👀 I’m interested in developing websites and mobile applications.<br>🌱 Latest interest Permissioned Blockchain <br>💞️ I’m looking to collaborate on the creation of websites and mobile applications<br>📫 How to reach me vamshi.gangadhar365@gmail.com
 
 
 ## 🌐 Socials:
